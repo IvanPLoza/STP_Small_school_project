@@ -1,0 +1,12 @@
+[submodule "lib/ESP-DASH"]
+	path = lib/ESP-DASH
+	url = https://github.com/ayushsharma82/ESP-DASH.git
+[submodule "lib/AsyncTCP"]
+	path = lib/AsyncTCP
+	url = https://github.com/me-no-dev/AsyncTCP.git
+[submodule "lib/ESPAsyncWebServer"]
+	path = lib/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer.git
+[submodule "lib/ArduinoJson"]
+	path = lib/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
